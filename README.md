@@ -1,12 +1,19 @@
-# Node ES2017 Boilerplate
+# Assignment: Creating & using NPM Packages
 
-> Getting started with node / es2017
+> Creating an npm package, publish it, and develop it
 
-[![Build Status](https://travis-ci.org/TylerGarlick/node-es7-boilerplate.svg?branch=master)](https://travis-ci.org/TylerGarlick/node-es7-boilerplate)
+## Introduction
 
-## Usage
 
-```bash
-$ git clone https://github.com/TylerGarlick/node-es7-boilerplate.git [name of project]
-```
+
+
+
+## Assignment
+
+### Resources
+
+* [NPM](https://docs.npmjs.com/)
+* [Publishing](https://docs.npmjs.com/cli/publish)
+
+
 
